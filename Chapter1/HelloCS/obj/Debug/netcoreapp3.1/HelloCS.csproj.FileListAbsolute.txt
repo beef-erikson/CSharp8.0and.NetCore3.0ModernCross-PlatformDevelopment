@@ -1,0 +1,13 @@
+D:\source\repos\C#\CSharp8.0and.netCore3.0ModernCross-PlatformDevelopment\Chapter1\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.exe
+D:\source\repos\C#\CSharp8.0and.netCore3.0ModernCross-PlatformDevelopment\Chapter1\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.deps.json
+D:\source\repos\C#\CSharp8.0and.netCore3.0ModernCross-PlatformDevelopment\Chapter1\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.json
+D:\source\repos\C#\CSharp8.0and.netCore3.0ModernCross-PlatformDevelopment\Chapter1\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.dev.json
+D:\source\repos\C#\CSharp8.0and.netCore3.0ModernCross-PlatformDevelopment\Chapter1\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.dll
+D:\source\repos\C#\CSharp8.0and.netCore3.0ModernCross-PlatformDevelopment\Chapter1\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.pdb
+D:\source\repos\C#\CSharp8.0and.netCore3.0ModernCross-PlatformDevelopment\Chapter1\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csprojAssemblyReference.cache
+D:\source\repos\C#\CSharp8.0and.netCore3.0ModernCross-PlatformDevelopment\Chapter1\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csproj.CoreCompileInputs.cache
+D:\source\repos\C#\CSharp8.0and.netCore3.0ModernCross-PlatformDevelopment\Chapter1\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfoInputs.cache
+D:\source\repos\C#\CSharp8.0and.netCore3.0ModernCross-PlatformDevelopment\Chapter1\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfo.cs
+D:\source\repos\C#\CSharp8.0and.netCore3.0ModernCross-PlatformDevelopment\Chapter1\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.dll
+D:\source\repos\C#\CSharp8.0and.netCore3.0ModernCross-PlatformDevelopment\Chapter1\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.pdb
+D:\source\repos\C#\CSharp8.0and.netCore3.0ModernCross-PlatformDevelopment\Chapter1\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.genruntimeconfig.cache
